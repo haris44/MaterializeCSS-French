@@ -1,0 +1,8 @@
+.picker__footer .btn, .picker__footer .btn-large, .picker__footer .btn-flat {
+    line-height: 0;
+    padding: 0;
+}
+
+.picker__close, .picker__today {
+    padding: 0;
+}
